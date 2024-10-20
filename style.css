@@ -52,14 +52,7 @@ h1{
     max-height: 20%;
     font-size: 50px;
     top: 100px;
-}
-h2{
-    margin-left: 203px;
-    max-width: 40%;
-    font-size: 40px;
-    top: 200px;
-    text-align: right;
-}
+
 
 #astronauta{
     position: absolute;
